@@ -38,9 +38,10 @@ items_num.times do |input|
 
 end
 
-puts adjectives
-puts cooking_style
-puts foods
+# testing
+# puts adjectives
+# puts cooking_style
+# puts foods
 
 puts "With your wise guidance we have created an amazing menu worthy of the Chez Denny's name!!"
 
